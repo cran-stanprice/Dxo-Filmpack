@@ -213,4 +213,4 @@ DxO FilmPack is available as a complete free version with all features and updat
 Unlock your creativity with DxO FilmPack today! Download the official version for Windows and start transforming your digital photos with timeless film effects.
 
 ---
-**Last updated:** 2026-10-18 05:25:53 UTC
+**Last updated:** 2026-10-18 10:24:11 UTC
